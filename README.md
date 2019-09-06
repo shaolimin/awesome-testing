@@ -8,3 +8,4 @@
 - [Android App测试技术图谱](androidtesting.md)  
 - [iOS App 测试技术图谱](iostesting.md)  
 - [AI测试技术图谱](aitesting.md)  
+- [大数据测试技术图谱](aitesting.md)  
